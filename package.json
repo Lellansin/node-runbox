@@ -1,0 +1,21 @@
+{
+  "name": "node-runbox",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lellansin/node-runbox.git"
+  },
+  "author": "lellansin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lellansin/node-runbox/issues"
+  },
+  "homepage": "https://github.com/Lellansin/node-runbox#readme"
+}
