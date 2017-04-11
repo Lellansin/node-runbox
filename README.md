@@ -2,7 +2,7 @@
 
 Use for runing code to avoid block condition in child processes.
 
-```
+```javascript
 const runbox = require('runbox');
 
 const box = runbox.setup(2); // 2 processes to run code
@@ -26,7 +26,7 @@ const box = runbox.setup(2); // 2 processes to run code
 
 if there is endless loop:
 
-```
+```javascript
 const runbox = require('runbox');
 
 const box = runbox.setup(2); // 2 processes to run code
